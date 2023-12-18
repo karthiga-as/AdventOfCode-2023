@@ -19,6 +19,7 @@ function calibration(calibratedDoc){
 
 /*
 1.Iterate each value in the calibrated array and returns the first and last digit
+2.Used two pointer algorith method.
 Input - String
 Output - Integer
 */
